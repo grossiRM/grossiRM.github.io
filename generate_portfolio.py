@@ -1,7 +1,7 @@
 import json
 from datetime import UTC, datetime
 from pathlib import Path
-from jinja2 import Environment, FileSystemLoader
+from jinja2 import Environment, FileSystemLoader  
 
 with Path("portfolio.json").open(encoding="utf-8") as f:        data = json.load(f)
 data["current_year"] = datetime.now(tz=UTC).year
