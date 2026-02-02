@@ -1,8 +1,0 @@
-  "work_experience": [{"company": "Latest Job","position": "Position One","url": "https://sample.com","start_date": "01/01/2020",
-  "end_date": "Present","summary": "Short summary about present job and what the position entails","highlights": ["First Duty of Current Job",
-  "Second Duty of Current Job","Third Duty of Current Job"]},
-  {
-      "company": "Previous Job",  "position": "Position Two",   "url": "https://sample.com",   "start_date": "01/01/2010",
-      "end_date": "01/01/2020", "summary": "Short summary about previous job and what that position entailed",
-      "highlights": ["First Duty of Previous Job","Second Duty of Previous Job","Third Duty of Previous Job"]}
-  ],
