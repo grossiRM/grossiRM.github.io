@@ -1,0 +1,81 @@
+{
+  "name": "Rodrigo M Grossi",
+  "label": "Mr",
+  "image_path": "img/default-image.jpg",
+  "contact": {"email": "grossirm@hotmail.com","phone": "55-11-98810-**99","location": "Três Corações, Minas Gerais, Brasil"},
+  "summary": "Eng. MsC | GEOprocessamento | XLS | MODFLOW | PEST | Py | H2O.",
+  "base_url": "127.0.0.1:5500",
+  "social_links": [{"label": "Beta-Me","url":  "https://betami2022.wixsite.com/betami" ,"svg_path": "img/globe.svg"},
+    {"label": "LinkedIn","url":                "https://www.linkedin.com/in/rodrigo-m-grossi-9845378/" ,"svg_path": "img/linkedin.svg"},
+    {"label": "Github","url":                  "ht  tps://github.com/grossiRM/Beta-Me"                   ,"svg_path": "img/github.svg"}],
+"projects": [
+
+  {"title": "GeoEstatística | Krigagem | MODFLOW | MT3D",  
+  "summary": "Sempre que volto à GeoEstatística, nunca deixo de me surpreender com o grau de abstração necessário para se depreender os dois mais básicos conceitos desta ciência dedicada a interpolação: O Variograma Espacial em si, e seu inventivo mecanismo de amostragem, O Caminhamento.",    
+  "highlights": ["Krigagem / simulação estocástica"   ,"Implementação floPy"    ,"Gabarito em Excel para formatar condições de contorno H, CHD, CNC"],
+  "url": "https://www.linkedin.com/pulse/geoestat%C3%ADstica-krigagem-modflow-mt3d-rodrigo-m-grossi-kkxxf/?trackingId=Is74fTJSSUGW321TVHPACA%3D%3D",
+  "images": [ {"img_path": "img/proj1/01.png","caption": "Corte / digitalização / aquífero"},
+              {"img_path": "img/proj1/02.png","caption": "Geração do sólido"}               , {"img_path": "img/proj1/03.png","caption": "Resultado final, não calibrado"}]},
+
+   {"title": "Code() Review: MF6 | SFR [versus] RIV & DRN",  
+   "summary": "A questão da modelagem numérica depende da quantidade de energia empregada não só para o entendimento efetivo do problema, como também para se esclarecer todas as dúvidas, de todos os interessados. .. Na representação dos cursos d'água, por exemplo: ",
+   "highlights": ["StreamFlow-Routing | SFR [versus] DRN & RIV"  ,"MODFLOW-API"    ,"Vantagens de uma estrutura mais complexa"],
+   "url": "https://www.linkedin.com/pulse/code-review-mf6-sfr-versus-riv-drn-rodrigo-m-grossi-ualue/?trackingId=VEZwAWWCSAiBVlRTZPCy8A%3D%3D",
+   "images": [ {"img_path": "img/proj2/01.png","caption": "Premissas / Resultados Carga & Vazões"},
+               {"img_path": "img/proj2/02.png","caption": "Input das vazões de entrada"}          , {"img_path": "img/proj2/03.png","caption": "Mapas potenciométricos"}]},
+  
+   {"title": "Code() Review: Watershed MODFLOW | Py",  
+   "summary": "Que tal um 'script' de código 100% aberto em Python (MF6|floPy) para uma primeira estimativa de fluxo de qualquer bacia hidrográfica?",
+   "highlights": ["Geoprocessamento" ,"MODFLOW Microbacia simplificado"    ,"Resultados rápidos"],
+   "url": "https://www.linkedin.com/pulse/code-review-watershed-modflow-py-rodrigo-m-grossi-wyv2f/?trackingId=Hkwb9cdtSMeVQCtKWfw4Hw%3D%3D",
+   "images": [ {"img_path": "img/proj3/01.png","caption": "Mapas topográfico e potenciométrico"},
+               {"img_path": "img/proj3/02.png","caption": "tabela MS Excel Inputs "},
+               {"img_path": "img/proj3/03.png","caption": "Condições de contorno"}]},
+
+   {"title": "Entrepre_pest_01 OBS.pst",  
+   "summary": "A quem interessar possa: Segue um ingênuo estudo da base de dados do já lendário modelo sintético Freyberg 1985, aplicado a calibração e análise de incertezas via script open source GMDSI | MODFLOW | PEST",
+   "highlights": ["Time series"   ,"Gerenciamento de Arquivos MODFLOW | PEST"    ,"Função Objetivo"],
+   "url": "https://www.linkedin.com/pulse/entreprepest01-obspst-rodrigo-m-grossi-22wgf/?trackingId=Hkwb9cdtSMeVQCtKWfw4Hw%3D%3D",
+   "images": [ {"img_path": "img/proj4/01.png","caption": "Configurações iniciais"},
+               {"img_path": "img/proj4/02.png","caption": "Dados medidos x observados x projeções"}, {"img_path": "img/proj4/03.png","caption": "Vações e Cargas hidráulicas medidas x observadas"}]},
+
+   {"title": "The PEST Mode.",  
+   "summary": "",
+   "highlights": ["a"   ,"b"    ,"c"],
+   "url": "https://www.linkedin.com/pulse/pest-mode-rodrigo-m-grossi-ccyvf/?trackingId=Hkwb9cdtSMeVQCtKWfw4Hw%3D%3D",
+   "images": [ {"img_path": "img/proj5/01.png","caption": "a"},
+               {"img_path": "img/proj5/02.png","caption": "b"},
+               {"img_path": "img/proj5/03.png","caption": "c"}]},
+              
+   {"title": "00",  
+   "summary": "",
+   "highlights": ["a"   ,"b"    ,"c"],
+   "url": "https://www.linkedin.com/pulse/geoestat%C3%ADstica-krigagem-modflow-mt3d-rodrigo-m-grossi-kkxxf/?trackingId=Is74fTJSSUGW321TVHPACA%3D%3D",
+   "images": [ {"img_path": "img/proj6/01.png","caption": "a"},
+               {"img_path": "img/proj6/02.png","caption": "b"},
+               {"img_path": "img/proj6/03.png","caption": "c"}]},
+
+   {"title": "00",  
+   "summary": "",
+   "highlights": ["a"   ,"b"    ,"c"],
+   "url": "https://www.linkedin.com/pulse/geoestat%C3%ADstica-krigagem-modflow-mt3d-rodrigo-m-grossi-kkxxf/?trackingId=Is74fTJSSUGW321TVHPACA%3D%3D",
+   "images": [ {"img_path": "img/proj7/01.png","caption": "a"},
+               {"img_path": "img/proj7/02.png","caption": "b"},
+               {"img_path": "img/proj7/03.png","caption": "c"}]}
+
+  ],
+
+
+  "skills": [{"name": "My First Skill","proficiency": 100,"proficiency_label": "Proficiency Level"},{"name": "My Second Skill","proficiency": 80,"proficiency_label": "Proficiency Level"}],
+
+  "highlights": [{"name": "a1","images": [{"img_path": "img/proj/fine.jpg"                      ,"caption": "Image Caption 7"}]},
+                 {"name": "a2","images": [{"img_path": "https://picsum.photos/600/338?random=9" ,"caption": "Image Caption 9"}]},
+                 {"name": "a2","images": [{"img_path": "https://picsum.photos/600/338?random=9" ,"caption": "Image Caption 9"}]},
+                 {"name": "a2","images": [{"img_path": "https://picsum.photos/600/338?random=9" ,"caption": "Image Caption 9"}]},
+                 {"name": "a2","images": [{"img_path": "https://picsum.photos/600/338?random=9" ,"caption": "Image Caption 9"}]},
+                 {"name": "a2","images": [{"img_path": "https://picsum.photos/600/338?random=9" ,"caption": "Image Caption 9"}]},
+                 {"name": "a2","images": [{"img_path": "https://picsum.photos/600/338?random=9" ,"caption": "Image Caption 9"}]},
+                 {"name": "a2","images": [{"img_path": "https://picsum.photos/600/338?random=9" ,"caption": "Image Caption 9"}]}
+                 ]
+  
+}
