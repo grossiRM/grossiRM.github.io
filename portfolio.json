@@ -45,18 +45,20 @@
   "images": [ {"img_path": "img/proj5/01.png","caption": "COV _ Matriz de Covariâncias Espaciais"},
               {"img_path": "img/proj5/02.png","caption": "Função Objetivo"},  {"img_path": "img/proj5/03.png","caption": "Overfitting"}]},
               
-  {"title": "MF | PEST .. the trough of despair .. , 'O Cocho do Desespero'.",  
-  "summary": " Vejamos o exemplo de Mike Lynch: Pioneiro desta onda da inteligência artificial (AI), este empresário britânico teve sua vida marcada por uma série de coincidências que, justamente por se tratarem de eventos de baixa probabilidade, mas que ainda assim não podem ser descartados pelos tomadores de decisão (...) exemplificam, com muita ironia, sua própria postura pessoal e empresarial. ",
+  {"title": "06_MF | PEST .. the trough of despair .. , 'O Cocho do Desespero'.",  
+  "summary":"Vejamos o exemplo de Mike Lynch: Pioneiro desta onda da inteligência artificial (AI), este empresário britânico teve sua vida marcada por uma série de coincidências que, justamente por se tratarem de eventos de baixa probabilidade, mas que ainda assim não podem ser descartados pelos tomadores de decisão (...) exemplificam, com muita ironia, sua própria postura pessoal e empresarial. ",
   "url": "https://www.linkedin.com/pulse/mf-pest-trough-despair-isto-mesmo-o-cocho-do-rodrigo-m-grossi-spzuf/?trackingId=8Q7tXj7VE5tT4vhrhxfWSQ%3D%3D",
   "images": [ {"img_path": "img/proj6/01.png","caption": "Mike Lynch"},
               {"img_path": "img/proj6/02.png","caption": "Inteligencia Artificial"},
               {"img_path": "img/proj6/03.png","caption": "Github"}]},
 
-  {"title": "Seguindo com a lista |USGS|. Modelagem de fluxo de águas subterrâneas .. Exemplo 23: Pacotes LGR, MVR e SFR",  
-  "summary": "Direto aos resultados: - Este primeiro exercício destaca os mecanismos de funcionamento de uma fundamental 'artimanha' estratégica dos modelos MODFLOW: - Criar duas malhas, ou seja, dois grids com diferentes resoluções espaciais, para rodar um modelo dentro de outro, de forma a diminuir as demandas de tempo e capacidade de processamento do computador, sem prejudicar a qualidade da simulação",
+  {"title": "07_Seguindo com a lista |USGS|. Modelagem de fluxo de águas subterrâneas .. Exemplo 23: Pacotes LGR, MVR e SFR",  
+  "summary":"Direto aos resultados: - Este primeiro exercício destaca os mecanismos de funcionamento de uma fundamental 'artimanha' estratégica dos modelos MODFLOW: - Criar duas malhas, ou seja, dois grids com diferentes resoluções espaciais, para rodar um modelo dentro de outro, de forma a diminuir as demandas de tempo e capacidade de processamento do computador, sem prejudicar a qualidade da simulação",
   "highlights": ["Scripting from Scratch"   ,"Racionalização em MS Excel"    ,"Duas malhas (grids pai e filho)"],
   "url": "https://www.linkedin.com/pulse/seguindo-com-lista-usgs-modelagem-de-fluxo-%C3%A1guas-rodrigo-m-grossi-rl3wf/?trackingId=j0b25R8JcftAqgqgbRPeog%3D%3D",
   "images": [ {"img_path": "img/proj7/01.png"},{"img_path": "img/proj7/02.png"},{"img_path": "img/proj7/03.png"}]}
+
+
 
   ],
   "skills": [{"name": "MODFLOW | PEST"  ,"proficiency": 80,"proficiency_label": "Proficiency Level"},{"name": "geostatistics | sedimentology"  ,"proficiency": 70,"proficiency_label": "Proficiency Level"},
