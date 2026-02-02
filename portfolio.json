@@ -14,8 +14,8 @@
   "summary": "Sempre que volto à GeoEstatística, nunca deixo de me surpreender com o grau de abstração necessário para se depreender os dois mais básicos conceitos desta ciência dedicada a interpolação: O Variograma Espacial em si, e seu inventivo mecanismo de amostragem, O Caminhamento.",    
   "highlights": ["Krigagem / simulação estocástica"   ,"Implementação floPy"    ,"Gabarito em Excel para formatar condições de contorno H, CHD, CNC"],
   "url": "https://www.linkedin.com/pulse/geoestat%C3%ADstica-krigagem-modflow-mt3d-rodrigo-m-grossi-kkxxf/?trackingId=Is74fTJSSUGW321TVHPACA%3D%3D",
-  "images": [ {"img_path": "img/proj2/01.png","caption": "Premissas / Resultados Carga & Vazões"},
-              {"img_path": "img/proj2/02.png","caption": "Input das vazões de entrada"}          , {"img_path": "img/proj2/03.png","caption": "Mapas potenciométricos"}]},
+  "images": [ {"img_path": "img/proj1/01.png","caption": "Corte / digitalização / aquífero"},
+              {"img_path": "img/proj1/02.png","caption": "Geração do sólido"}          , {"img_path": "img/proj1/03.png","caption": "Resultado final, não calibrado"}]},
               
   {"title": "02_Code() Review: MF6 | SFR [versus] RIV & DRN",  
   "summary": "A questão da modelagem numérica depende da quantidade de energia empregada não só para o entendimento efetivo do problema, como também para se esclarecer todas as dúvidas, de todos os interessados. .. Na representação dos cursos d'água, por exemplo: ",
