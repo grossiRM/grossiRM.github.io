@@ -87,18 +87,17 @@
   "skills": [{"name": "MODFLOW | PEST"  ,"proficiency": 80,"proficiency_label": "Proficiency Level"},{"name": "geostatistics | sedimentology"  ,"proficiency": 70,"proficiency_label": "Proficiency Level"},
              {"name": "GUI & Scripting modelling","proficiency": 60,"proficiency_label": "Proficiency Level"},{"name": "English","proficiency": 90,"proficiency_label": "Proficiency Level"}],
 
-  "highlights": [{"name": "______________________________________","images": [{"img_path": "img/proj/a1_anisotropia.jpg"         ,"caption": "Image Caption "}]},
-                 {"name": "______________________________________","images": [{"img_path": "img/proj/a2_Null space.jpg"          ,"caption": "Image Caption "}]},
-                 {"name": "______________________________________","images": [{"img_path": "img/proj/b1_Heterogeneidade_K.jpg"   ,"caption": "Image Caption "}]},
-                 {"name": "______________________________________","images": [{"img_path": "img/proj/b2_K.jpg"                   ,"caption": "Image Caption "}]},
-                 {"name": "______________________________________","images": [{"img_path": "img/proj/c1_pluma.jpg"               ,"caption": "Image Caption "}]},
-                 {"name": "______________________________________","images": [{"img_path": "img/proj/c2_fine.jpg"                ,"caption": "Image Caption "}]},
-                 {"name": "______________________________________","images": [{"img_path": "img/proj/c3_cubagem.jpg"             ,"caption": "Image Caption "}]},
-                 {"name": "______________________________________","images": [{"img_path": "img/proj/d1_Null space02.jpg"        ,"caption": "Image Caption "}]},
-                 {"name": "______________________________________","images": [{"img_path": "img/proj/e1.png"                     ,"caption": "Image Caption "}]},
-                 {"name": "______________________________________","images": [{"img_path": "img/proj/e2.png"                     ,"caption": "Image Caption "}]},
-                 {"name": "______________________________________","images": [{"img_path": "img/proj/e3.png"                     ,"caption": "Image Caption "}]},                                  
-                 {"name": "______________________________________","images": [{"img_path": "img/proj/d3_regional.jpg"            ,"caption": "Image Caption "}]}
-                 ]
-  
+  "highlights": [{"images": [{"img_path": "img/proj/a1_anisotropia.jpg"         }]},
+                 {"images": [{"img_path": "img/proj/a2_Null space.jpg"          }]},
+                 {"images": [{"img_path": "img/proj/b1_Heterogeneidade_K.jpg"   }]},
+                 {"images": [{"img_path": "img/proj/b2_K.jpg"                   }]},
+                 {"images": [{"img_path": "img/proj/c1_pluma.jpg"               }]},
+                 {"images": [{"img_path": "img/proj/c2_fine.jpg"                }]},
+                 {"images": [{"img_path": "img/proj/c3_cubagem.jpg"             }]},
+                 {"images": [{"img_path": "img/proj/d1_Null space02.jpg"        }]},
+                 {"images": [{"img_path": "img/proj/e1.png"                     }]},
+                 {"images": [{"img_path": "img/proj/e2.png"                     }]},
+                 {"images": [{"img_path": "img/proj/e3.png"                     }]},                                  
+                 {"images": [{"img_path": "img/proj/d3_regional.jpg"            }]}
+                 ] 
 }
